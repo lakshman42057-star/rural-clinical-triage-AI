@@ -1,0 +1,6 @@
+{
+  "name": "Rural Clinical Triage AI",
+  "description": "Standardized Clinical Triage AI assistant for low-resource rural clinics, analyzing unstructured intake notes, vernacular symptoms, extracting vitals, assigning risk tiers, and flagging red-flag alerts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
